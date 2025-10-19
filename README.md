@@ -7,11 +7,11 @@ This app enables users to generate articles, blogs, and AI-powered images — an
 
 ## 🚀 Screenshots
 
-![Landing Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20173926.png)
+![Landing Page](https://github.com/Harshit9026/Quick-Ai/blob/main/src/assets/QuickAi-1.png?raw=true)
 
-![Login Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174444.png)
+![Login Page](https://github.com/Harshit9026/Quick-Ai/blob/main/src/assets/Screenshot%202025-10-19%20225008.png)
 
-![Dashboard Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174531.png)
+![Dashboard Page](https://github.com/Harshit9026/Quick-Ai/blob/main/src/assets/Screenshot%202025-10-19%20225121.png)
 
 
 ## 🧠 Key Features
