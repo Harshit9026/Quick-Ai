@@ -113,5 +113,11 @@ App will run on:
 Frontend → http://localhost:5173  
 Backend → http://localhost:5000
 
-🖼️ Screenshots
+🖼️ Screenshot
+
+![Landing Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20173926.png)
+
+![Login Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174444.png)
+
+![Dashboard Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174531.png)
 
