@@ -115,9 +115,8 @@ Backend → http://localhost:5000
 
 🖼️ Screenshot
 
-![Landing Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20173926.png)
+![Landing Page](https://raw.githubusercontent.com/Harshit9026/Habit-Tracker-App/main/frontend/src/assets/Screenshot%202025-09-10%20173926.png)
 
-![Login Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174444.png)
+![Login Page](https://raw.githubusercontent.com/Harshit9026/Habit-Tracker-App/main/frontend/src/assets/Screenshot%202025-09-10%20174444.png)
 
-![Dashboard Page](https://github.com/Harshit9026/Habit-Tracker-App/blob/main/frontend/src/assets/Screenshot%202025-09-10%20174531.png)
-
+![Dashboard Page](https://raw.githubusercontent.com/Harshit9026/Habit-Tracker-App/main/frontend/src/assets/Screenshot%202025-09-10%20174531.png)
